@@ -2,7 +2,6 @@
 
 - 🔭 Desenvolvedor Full-Stack
 - 🌱 Dev Junior
-- 👯 Acesse yurigabriel6.github.io
 - 📫 Contate-Me No Discord: yurigabriel6
 
 
