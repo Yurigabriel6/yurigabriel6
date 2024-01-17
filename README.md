@@ -1,7 +1,7 @@
 # Olá, Mundo! Eu Me Chamo Yuri!
 
 - 🔭 Desenvolvedor Full-Stack
-- 🌱 Estudando C#, Python e Java
+- 🌱 Dev Junior
 - 👯 Acesse yurigabriel6.github.io
 - 📫 Contate-Me No Discord: yurigabriel6
 
