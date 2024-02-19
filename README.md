@@ -1,6 +1,6 @@
 # Olá, Mundo! Eu Me Chamo Yuri!
 
-- 🔭 Desenvolvedor Full-Stack
+- 🔭 Desenvolvedor Web
 - 🌱 Dev Junior
 - 📫 Contate-Me No Discord: yurigabriel6
 
