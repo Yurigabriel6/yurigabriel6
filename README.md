@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Web
 - 🌱 Dev Junior
 - 📫 Contate-Me No Discord: yurigabriel6
-- 
+  
 - Relativamente Avançado Em:
 
 <div style="display: inline_block">
